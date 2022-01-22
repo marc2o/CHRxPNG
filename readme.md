@@ -20,12 +20,12 @@ CHRs can be either 4.096 or 8.192 bytes (actually, they can be any size, but the
 
 Apart from opening a file CHRxPNG is totally controlled by key commands.
 
-- **Opening a file** Drag and drop a CHR or PNG file into the window (or onto the app icon while holding [alt] + [cmd] keys).
-- **[B]** Switch bank (only available if more than one bank is needed to display the CHR or PNG)
-- **[G]** Turn tile grid on and off
-- **[P]** Switch palettes; there are nine 4-color palettes to cycle through (only available for CHR files)
-- **[S]** Save as PNG or CHR (depending on the current type of file) to the folder specified in the dialog box (either `~/Library/Application Support/LOVE/CHRxPNG` on macOS or `%appdata%\LOVE\CHRxPNG` on a Windows machine)
-- **[Esc]** Exit CHRxPNG
+- **Opening a file** by dragging and dropping either a CHR or a PNG file into the window (or onto the app icon while holding [alt] + [cmd] keys).
+- **[B]** to switch banks (only available if more than one bank is needed to display the CHR or PNG)
+- **[G]** to turn tile grid on and off
+- **[P]** to switch palettes; you can cycle through nine 4-color palettes (only available for CHR files)
+- **[S]** to save as PNG or CHR, depending on the current type of file, to the folder specified in the dialog box (either `~/Library/Application Support/LOVE/CHRxPNG` on macOS or `%appdata%\LOVE\CHRxPNG` on a Windows machine)
+- **[Esc]** to exit CHRxPNG
 
 ## Built-in Palettes
 
