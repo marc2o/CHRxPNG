@@ -46,3 +46,9 @@ The palettes for coloring the CHR files are the following:
 ## But, why…?
 
 I needed something sweet and simple to view and convert CHRs. And something that is able to work with 8-Bit PNGs, too. So I coded my own tool. It is made with [LOVE](https://love2d.org) and it does the job quite nicely. It also features several beautiful 4-color palettes from [Lospec](https://lospec.com).
+
+--
+
+2022 by Marc Oliver Orth | @marc2o
+
+[https://marc2o.github.io](https://marc2o.github.io)
