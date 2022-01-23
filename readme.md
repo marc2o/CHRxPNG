@@ -20,7 +20,7 @@ CHRs can be either 4.096 or 8.192 bytes (actually, they can be any size, but the
 
 Apart from opening a file CHRxPNG is totally controlled by key commands.
 
-- **Opening a file** by dragging and dropping either a CHR or a PNG file into the window or onto the app icon.
+- **Open a file** by dragging and dropping either a CHR or a PNG file into the window or onto the app icon.
 - **[B]** to switch banks (only available if more than one bank is needed to display the CHR or PNG)
 - **[G]** to turn tile grid on and off
 - **[P]** to switch palettes; you can cycle through nine 4-color palettes (only available for CHR files)
