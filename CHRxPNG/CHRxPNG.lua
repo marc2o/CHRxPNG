@@ -82,6 +82,7 @@ CHRxPNG = {
   nestiles = nil,
   imagedat = nil,
   imagecol = {},
+  imagehgt = 0,
   contents = "",
   filesize = 0,
   filetype = "",
@@ -232,7 +233,7 @@ function CHRxPNG:writeCHR()
     { 0, 0, 0, 0, 0, 0, 0, 0 }
   }
 
-  for i = 0, 255 do
+  for i = 0, self.imagedat:getHeight() * 2 - 1 do
     local x, y = (i % 16) * 8, math.floor(i / 16) * 8
     local r, g, b, a
     
