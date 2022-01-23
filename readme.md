@@ -14,7 +14,7 @@ Just drag and drop your CHR or PNG file — either into the window or onto the a
 
 PNG images are expected to be 128 pixels wide and either 128 or 256 pixel high. If more than 4 colors are used in the image, CHRxPNG will tell you. But the PNG does not have to be 2-bit. Anything will do as long as only 4 colors are used.
 
-CHRs can be either 4.096 or 8.192 bytes (actually, they can be any size, but these are the two sizes most suitable for me.)
+CHRs can be either 4.096 or 8.192 bytes (actually, they can be any size, but these are the two sizes most suitable for me).
 
 ## Functions
 
