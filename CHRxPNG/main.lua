@@ -4,6 +4,12 @@
   PNGs must be 128 x 128 pixels and use exactly 4 colors.
   CHRs are expected to contain 512 tiles.
   by 2022 marc2o / Marc Oliver Orth
+                                       ___
+       ______    ___    ___   ___    /    \   ___
+    _/       \_/    \_/ _  \_/   \  _--   / _/   \
+   /   /  /  /   /  /   /__/  /__/ /  ___/ /   / /
+  /___/__/__/\__/\_/___/   \____/ /     /  \____/
+                                 /_____/
   https://marc2o.github.io
 --]]
 
